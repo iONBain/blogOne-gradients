@@ -71,7 +71,7 @@ hr {
     -o-filter: blur(5px);
     -ms-filter: blur(5px); */
     /* filter: blur(60px); */
-    backdrop-filter: blur(5px);
+    backdrop-filter: blur(3px);
     /* filter: invert(50%); */
     z-index: -5;
     width: 80vw;
