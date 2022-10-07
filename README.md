@@ -1,9 +1,9 @@
 # blogOne-gradients
 Stuck in deciding what background should you keep in your project? Check out my first blog which discusses how to add gradients using simple CSS.
-> What's special - I have added background animation which triggers on mouseMove, do check it by[clicking here](https://blogone-ba.netlify.app/)
+> What's special - I have added background animation which triggers on mouseMove, do check it by [clicking here](https://blogone-ba.netlify.app/)
 
 * The landing page of my blog is as follows
-![landingpage](./images/landing.png)
+![landingpage](./asset/landing.png)
 
 
 > Technologies/Libraries used :-
